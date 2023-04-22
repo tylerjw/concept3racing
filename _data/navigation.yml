@@ -1,0 +1,7 @@
+main:
+  - title: "Rental"
+    url: /2023-rental/
+  - title: "iRacing"
+    url: /2023-iracing/
+  - title: "About"
+    url: /about/

@@ -1,0 +1,22 @@
+Tyler:
+  name        : "Tyler Weaver"
+  bio         : "Into the darkness we run. We are crazy, you will have fun with us."
+  avatar      : "/assets/images/avatar_tyler.jpg"
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/weaveringrally/"
+
+Mark:
+  name        : "Mark Malsom"
+  bio         : "You never had me, you never had your kart!"
+  avatar      : "/assets/images/avatar_mark.jpg"
+
+Ryan:
+  name        : "Ryan McLaughin"
+  bio         : "There's nothing I can't do with a race car."
+  avatar      : "/assets/images/avatar_ryan.png"
+  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/ryanmclaughlinracing/"
