@@ -24,6 +24,7 @@ url                      : "https://tylerjw.github.io/concept3racing/"
 baseurl                  : ""
 repository               : "tylerjw/concept3racing"
 teaser                   : "assets/images/hex_flag_dark.png"
+og_image                 : "assets/images/hex_logo_mid_split_gray.png"
 logo                     : "assets/images/tires_logo_88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
@@ -58,6 +59,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/concept3racing/"
+    - label: "Discord"
+      icon: "fab fa-discord"
+      url: "https://discord.gg/F7BqkBUNFW"
     - label: "Email"
       icon: "fas fa-at"
       url: "mailto:info@concept3racing.com"
