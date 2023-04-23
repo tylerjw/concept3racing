@@ -3,6 +3,9 @@ layout: single
 title: 2023 CKT iRacing Summer Championship
 permalink: /2023-iracing/
 author: Mark
+header:
+  teaser: /assets/images/kart_meme_crash.jpg
+classes: wide
 ---
 
 This year we’re doing a summer CKT iRacing series brought to you by Concept 3 Racing.

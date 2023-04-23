@@ -29,7 +29,7 @@ logo                     : "assets/images/tires_logo_88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
-search                   : false
+search                   : true
 search_full_content      : false # true, false (default)
 search_provider          : "lunr" # lunr (default), algolia, google
 lunr:
@@ -62,6 +62,9 @@ footer:
     - label: "Discord"
       icon: "fab fa-discord"
       url: "https://discord.gg/F7BqkBUNFW"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/tylerjw/concept3racing"
     - label: "Email"
       icon: "fas fa-at"
       url: "mailto:info@concept3racing.com"
@@ -204,7 +207,9 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false
-      comments: # true
+      comments: false
       share: true
       related: true
+      show_date: true
+      read_time: true
+      classes: wide

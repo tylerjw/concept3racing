@@ -4,6 +4,8 @@ title: Run Your Rust Off
 author: Tyler
 header:
   image: /assets/images/photos/PXL_20230415_184456270.jpg
+  teaser: /assets/images/photos/PXL_20230415_184456270.jpg
+classes: wide
 ---
 
 The highly-anticipated racing season has officially kicked off, and Concept 3 Racing is excited to share our first race experience with our fans and supporters.
