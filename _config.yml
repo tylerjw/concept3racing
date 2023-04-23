@@ -60,7 +60,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/concept3racing/"
     - label: "Discord"
-      icon: "fab fa-discord"
+      icon: "fab fa-fw fa-discord"
       url: "https://discord.gg/F7BqkBUNFW"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
