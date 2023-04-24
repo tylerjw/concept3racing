@@ -22,8 +22,8 @@ Mark:
   avatar      : "/assets/images/avatar_mark.jpg"
 
 Ryan:
-  name        : "Ryan McLaughin"
-  bio         : "There's nothing I can't do with a race car."
+  name        : "Ryan McLaughlin"
+  bio         : "There ain't no island left for islanders like me."
   avatar      : "/assets/images/avatar_ryan.png"
   links:
     - label: "Instagram"
