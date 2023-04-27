@@ -1,3 +1,13 @@
+---
+layout: single
+title: Kart Specs - Arrive and Drive
+permalink: /Arrive and Drive Kart Specs/
+author: Ryan
+header:
+  teaser: /assets/images/kart_meme_crash.jpg
+classes: wide
+---
+
 Our current Arrive and Drive kart is designed and purpose built for performance in our hotly contested Briggs 206 classes.
 
 VLR Emerald with Briggs 206 spec racing engine.
