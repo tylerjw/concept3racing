@@ -8,8 +8,8 @@ header:
 classes: wide
 ---
 
-This year we’re doing a summer CKT iRacing series brought to you by Concept 3 Racing.
-9 points events and a special intro non-points event that will be used for any tiebreaking.
+Concept 3 Racing is proud to present the 2023 Colorado Karting Tour Summer iRacing Series.
+Nine points events and a special intro non-points event that will be used for any tiebreaking.
 To make it extra interesting we’ll be doing different car classes at different events.
 The two classes will be the Toyota GT86 on a fixed medium downforce for the heat races and the GT3 on a fixed medium downforce for the non-heat races.
 The GT86 races will be on shorter iRacing included circuits while the GT3 races will be on longer tracks which were picked due being close to a similar F1 race day.
@@ -17,7 +17,7 @@ Since participation varied last series we’re going to add AI for the GT3 races
 We’ll also be doing some as inverted starts, some rolling and some standing starts, and a team endurance race.
 The series will be doing 1 drop.
 
-## R1, April 20 @ Mt Washington Hill Climb
+## (COMPLETED) R1, April 20 @ Mt Washington Hill Climb
 
 Participation only, no points, just tiebreaker, not a drop event.
 There will be 2 sessions: 8PM and 9PM.
