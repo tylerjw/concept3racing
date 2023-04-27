@@ -10,7 +10,11 @@ classes: wide
 
 Our current Arrive and Drive kart is designed and purpose built for performance in our hotly contested Briggs 206 classes.
 
-VLR Emerald with Briggs 206 spec racing engine.
+VLR Emerald
+
+Engine:                                 Briggs 206 sealed spec racing engine, RLV tuned exhaust. Amsoil 4T Briggs Racing Oil
+
+Clutch:                                 Hilliard Inferno Flame
 
 Chassis Tubing:                         28mm Chrome Moly
 
