@@ -4,7 +4,8 @@ title: Kart Specs - Arrive and Drive
 permalink: /Arrive and Drive Kart Specs/
 author: Ryan
 header:
-  teaser: /assets/images/kart_meme_crash.jpg
+  image: /assets/images/photos/PXL_20230415_184456270.jpg
+  teaser: /assets/images/photos/PXL_20230415_184456270.jpg
 classes: wide
 ---
 
