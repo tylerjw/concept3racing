@@ -23,7 +23,7 @@ description              : "Experience the thrill of kart racing with Concept 3 
 url                      : "https://www.concept3racing.com"
 baseurl                  : ""
 repository               : "tylerjw/concept3racing"
-teaser                   : "assets/images/hex_flag_dark.png"
+teaser                   : "assets/images/photos/PXL_20230415_184456270.jpg"
 og_image                 : "assets/images/hex_logo_mid_split_gray.png"
 logo                     : "assets/images/tires_logo_88x88.png"
 masthead_title           : " " # overrides the website title displayed in the masthead, use " " for no title

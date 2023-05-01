@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Kart Specs - Arrive and Drive
-permalink: /Arrive and Drive Kart Specs/
+permalink: /kart_specs/
 author: Ryan
 header:
   image: /assets/images/photos/PXL_20230415_184456270.jpg
