@@ -1,9 +1,9 @@
 main:
   - title: "Arrive & Drive"
     url: /2023-rental/
+  - title: "FAQ"
+    url: /faq/
   - title: "iRacing"
     url: /2023-iracing/
   - title: "About"
     url: /about/
-  - title: "FAQ"
-    url: /faq/
