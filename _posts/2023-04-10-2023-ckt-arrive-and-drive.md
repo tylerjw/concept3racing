@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 2023 CKT Arrive and Drive
-permalink: /2023-rental/
+permalink: /2023-arrive-and-drive/
 author: Tyler
 header:
   teaser: /assets/images/CKT2023_schedule.png
@@ -29,10 +29,10 @@ When you choose our Arrive & Drive program, you can expect the following:
 - Kart setup, tuning and maintenance: We take care of all kart maintenance, ensuring you have a reliable and well-tuned machine for your racing sessions.  Adjustments can be made based on driver preference or changing conditions throughout the race weekend.
 - Coaching and data analysis: Our driver team is available to offer personalized coaching and guidance to help you sharpen your driving skills and maximize your performance on the track.  We actively utilize AiM data acquisition and analysis tools for kart tuning and driver development.
 
-## Reserving your Kart Rental
+## Reserving your Race
 
 Don't wait,
-Please email [info@concept3racing.com](info@concept3racing.com) for more details.
+Please email [info@concept3racing.com](info@concept3racing.com) today!
 
 ## More Details
 
