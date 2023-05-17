@@ -11,26 +11,17 @@ classes: wide
 
 Our current Arrive and Drive kart is designed and purpose built for performance in our hotly contested Briggs 206 classes.
 
-| Chasis | VLR Emerald |
+| Chasis | CKR Stingray |
 | Engine | Briggs 206 sealed spec racing engine, RLV tuned exhaust. Amsoil 4T Briggs Racing Oil |
 | Clutch | Hilliard Inferno Flame |
-| Chassis Tubing | 28mm Chrome Moly |
-| Front Axle | 28mm Chrome Moly |
-| Finish | Black Powder Coated |
-| Rear Axle | 0039 40mm Medium Flex |
-| Rear Axle Bearings | 0039 2 40mm |
+| Chassis Tubing | 30mm Chrome Moly |
+| Front Axle | 30mm Chrome Moly |
+| Finish | Blue Powder Coated |
+| Rear Axle | 50mm Hard Flex |
+| Rear Axle Bearings | 2 50mm |
 | Ride Height Front & Back | Adjustable |
 | Torsion Bar Front & Back | Removable |
-| Rear Wheel Hubs | 0039 Black Aluminum 40mm x 75mm |
-| Front Wheel Hubs | 0039 Black Aluminum 17mm x 75mm |
-| Front Spindles | 0039 10mm King Pin/ 17mm Axle |
-| Ackerman | 0039 Adjustable |
 | Caster/Camber | Sniper Caster/Camber adjustment system |
-| Steering Wheel | KG 335mm |
-| Fuel Tank | KG 8.5 Liter, Removable |
-| Bodywork | KG "506" Complete Set, Black |
-| Brakes | 0039 Easy, 4 Piston Caliper |
-| Rotor/Disc | 0039 12mm Vented |
 | Seat Struts | 0039 2 or 0 depending on conditions |
 | Seat | Various, depending on driver size |
 | Front Wheels | Swift Magnesium / Vented/ Hub Mounted, 5" x 130mm (dry). 0039 Polished Cast Aluminum/ Vented/ Hub Mounted, 5" x 130mm (wet) |
