@@ -4,6 +4,7 @@ title: 2023 CKT Arrive and Drive
 permalink: /2023-arrive-and-drive/
 author: Tyler
 header:
+  image: /assets/images/photos/PXL_20230507_163233678.jpg
   teaser: /assets/images/CKT2023_schedule.png
 classes: wide
 ---
