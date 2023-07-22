@@ -8,7 +8,7 @@ header:
 classes: wide
 ---
 
-Dalton, a professional Sim racer, joined our team for the double header at PPIR.
+Dalton, a professional sim racer, joined our team for the double header at PPIR.
 This is his second year running this race with the CKT.
 Having four races of experience he was no longer a rookie.
 
@@ -41,5 +41,3 @@ In terms of lap times the KA100 class did laps around PPIR in 57 seconds while t
 Having only a handful of practice days at IMI, the races at PPIR were my first time going wheel to wheel in a KA100.
 I had no bad contact with other karts and managed to trade position back and forth with other racers cleanly.
 It was intense and I am very happy with my performance finishing on the same lap as the leader and not having any bad off-track events.
-
-![Tyler KA100 at IMI on straight]({{site.url}}/assets/images/photos/_DSC8167.JPG)

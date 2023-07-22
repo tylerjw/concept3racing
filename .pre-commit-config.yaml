@@ -25,4 +25,4 @@ repos:
     hooks:
       - id: codespell
         args: ['--write-changes', '--ignore-words=.codespell_words']
-        exclude: CHANGELOG.rst
+        exclude: Gemfile.lock
